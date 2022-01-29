@@ -1,3 +1,9 @@
+
+## This project is a prototype research portal UI
+
+* It uses a template from Wrapbootstrap Angle
+Based on React JS
+
 BASED on this blog:  https://medium.com/bb-tutorials-and-thoughts/how-to-serve-react-application-with-nginx-and-docker-9c51ac2c50ba
 
 
